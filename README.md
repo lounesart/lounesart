@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Game Development and Music Composition
 
-- 📬 You can reach me **offyloban@gmail.com**
+- 📬 You can reach me by **offyloban@gmail.com**
 
 - 🦀 I will figure a way out of any situation
 
