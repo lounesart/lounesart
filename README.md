@@ -22,7 +22,7 @@
   <a href="https://instagram.com/lounesart" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="lounesart" height="30" width="40" /></a>
-  <a href="https://discord.gg/users/693896774519095416" target="blank"><img align="center" 
+  <a href="https://discord.gg/pNVB6D3y" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
       alt="693896774519095416" height="30" width="40" /></a>
 </p>
