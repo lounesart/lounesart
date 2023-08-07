@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yegor Loban</h1>
-<h3 align="center">Student at Collegium Da Vinci, Poznań🌟.</h3>
+<h3 align="center">Student at Collegium Da Vinci, Poznań</h3>
 
 <br>
 
