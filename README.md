@@ -6,7 +6,7 @@
 <p><img align="right" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" /></p>
 
 
-- 🌱 I’m currently learning Game Development and Music Composition
+- 🌱 I’m currently striving to gain new experiences and am interested in such branches as System Administration, Marketing, Audio Engineering and Music Production
 
 - 📬 You can reach me by **offyloban@gmail.com**
 
