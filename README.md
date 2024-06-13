@@ -8,7 +8,7 @@
 
 - 🌱 Seeking opportunities to gain experience in fields such as Audio Engineering, Sound Design, System Administration, and Marketing
 
-- 👨‍💻 Some of my old projects [https://github.com/lounesart/Audio/tree/main/Loops %26 CompositionsAC](https://github.com/lounesart/Audio/tree/main/Loops %26 CompositionsAC)
+- 👨‍💻 Some of my old projects https://github.com/lounesart/Audio/tree/main/Loops
   
 - 📬 You can reach me by **offyloban@gmail.com**
    
