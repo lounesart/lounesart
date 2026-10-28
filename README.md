@@ -145,9 +145,13 @@ what is wrong and how to fix it, without running anything.
 ```diff
 + Julz, my local AI assistant with a phone app
 + sysreport, a health check for my workstation
-+ Building a homelab for my cybersecurity shenanigans
-! System and network hardening
++ Homelab built, a hardened Linux host with nftables, AppArmor and USBGuard
++ KVM labs for my cybersecurity shenanigans, including an Active Directory domain
++ Self hosted Ollama, SearXNG and ntfy, reachable over Tailscale only
+! Studying for CompTIA A+, Network+ and Security+, then HTB CPTS
 # Developing a personal toolbelt in Bash/Python
 ```
+
+<sub>Updated October 2026</sub>
 
 <div align="right"><a href="#readme"><sub>Back to top</sub></a></div>
