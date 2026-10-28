@@ -69,7 +69,7 @@ what is wrong and how to fix it, without running anything.
   <a href="https://academy.hackthebox.com/"><img src="assets/card-academy.png" width="49%" alt="20+ HTB Academy modules"></a>
   <a href="https://www.hackthebox.com/"><img src="assets/card-startingpoint.png" width="49%" alt="14+ Starting Point machines on HackTheBox"></a>
   <a href="https://overthewire.org/wargames/bandit/"><img src="assets/card-bandit.png" width="49%" alt="35 Bandit levels on OverTheWire"></a>
-  <a href="https://github.com/lounesart/Scripts/blob/main/Python/bshred.py"><img src="assets/card-bshred.png" width="49%" alt="bshred, my own shred"></a>
+  <a href="https://overthewire.org/wargames/natas/"><img src="assets/card-natas.png" width="49%" alt="Natas, the OverTheWire web security wargame"></a>
 </p>
 
 - [x] **[HTB Academy](https://academy.hackthebox.com/)**
