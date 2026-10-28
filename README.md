@@ -38,7 +38,9 @@ A local AI that knows my notes, plans my study week and hands bigger coding jobs
 inside a sandbox, only after I read the task on my phone and sign it with my fingerprint.
 
 <p align="center">
-  <a href="https://github.com/lounesart/julz"><img src="https://raw.githubusercontent.com/lounesart/julz/main/docs/media/preview.webp" width="260" alt="A short loop of the Julz phone app"></a>
+  <img src="assets/frame-code.jpg" width="31%" alt="Julz writing Python in colour">
+  <a href="https://github.com/lounesart/julz/blob/main/docs/media/julz-promo.mp4"><img src="https://raw.githubusercontent.com/lounesart/julz/main/docs/media/preview.webp" width="31%" alt="A short loop of the Julz phone app"></a>
+  <img src="assets/frame-looks.jpg" width="31%" alt="Three Julz looks, sharp or smooth">
   <br><br>
   <a href="https://github.com/lounesart/julz"><img src="https://img.shields.io/badge/the%20repo-julz-E8742A?style=for-the-badge&labelColor=09070A&logo=github&logoColor=F5F2F4" alt="The julz repo"></a>
   <a href="https://github.com/lounesart/julz/blob/main/docs/media/julz-promo.mp4"><img src="https://img.shields.io/badge/watch-one%20minute%20tour-E8742A?style=for-the-badge&labelColor=09070A&logo=youtube&logoColor=F5F2F4" alt="Watch the one minute tour"></a>
@@ -65,9 +67,9 @@ what is wrong and how to fix it, without running anything.
 
 <p align="center">
   <a href="https://academy.hackthebox.com/"><img src="assets/card-academy.png" width="49%" alt="20+ HTB Academy modules"></a>
-  <a href="#student-transcript"><img src="assets/card-rank.png" width="49%" alt="Top 5 percent on HTB Academy, 68 targets, 2 paths completed"></a>
   <a href="https://www.hackthebox.com/"><img src="assets/card-startingpoint.png" width="49%" alt="14+ Starting Point machines on HackTheBox"></a>
   <a href="https://overthewire.org/wargames/bandit/"><img src="assets/card-bandit.png" width="49%" alt="35 Bandit levels on OverTheWire"></a>
+  <a href="https://github.com/lounesart/Scripts/blob/main/Python/bshred.py"><img src="assets/card-bshred.png" width="49%" alt="bshred, my own shred"></a>
 </p>
 
 - [x] **[HTB Academy](https://academy.hackthebox.com/)**
@@ -91,7 +93,7 @@ what is wrong and how to fix it, without running anything.
 ### Student transcript
 
 <details>
-<summary><img src="assets/nav-transcript.png" height="32" alt="Student transcript, click to open"></summary>
+<summary><b>HTB Academy student transcript</b>&nbsp; <sub>tap to open</sub></summary>
 <br>
 
 <a href="https://raw.githubusercontent.com/lounesart/Images/main/fragment-1.png"><img src="assets/transcript-1.jpg" width="100%" alt="HTB Academy transcript, page 1"></a>
@@ -109,22 +111,23 @@ what is wrong and how to fix it, without running anything.
 
 ## Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/daily-E8742A?style=for-the-badge" alt="Daily">
-  <img src="https://img.shields.io/badge/python-09070A?style=for-the-badge&logo=python&logoColor=F5F2F4" alt="Python">
-  <img src="https://img.shields.io/badge/bash-09070A?style=for-the-badge&logo=gnubash&logoColor=F5F2F4" alt="Bash">
-  <img src="https://img.shields.io/badge/neovim-09070A?style=for-the-badge&logo=neovim&logoColor=F5F2F4" alt="Neovim">
-  <img src="https://img.shields.io/badge/linux-09070A?style=for-the-badge&logo=linux&logoColor=F5F2F4" alt="Linux">
-  <img src="https://img.shields.io/badge/git-09070A?style=for-the-badge&logo=git&logoColor=F5F2F4" alt="Git">
-  <br>
-  <img src="https://img.shields.io/badge/learning-C97A3D?style=for-the-badge" alt="Learning">
+<p align="center"><sub><b>DAILY</b></sub><br>
+  <img src="https://img.shields.io/badge/python-09070A?style=for-the-badge&logo=python&logoColor=E8742A" alt="Python">
+  <img src="https://img.shields.io/badge/bash-09070A?style=for-the-badge&logo=gnubash&logoColor=E8742A" alt="Bash">
+  <img src="https://img.shields.io/badge/neovim-09070A?style=for-the-badge&logo=neovim&logoColor=E8742A" alt="Neovim">
+  <img src="https://img.shields.io/badge/linux-09070A?style=for-the-badge&logo=linux&logoColor=E8742A" alt="Linux">
+  <img src="https://img.shields.io/badge/git-09070A?style=for-the-badge&logo=git&logoColor=E8742A" alt="Git">
+</p>
+
+<p align="center"><sub><b>LEARNING</b></sub><br>
   <img src="https://img.shields.io/badge/c-09070A?style=for-the-badge&logo=c&logoColor=F5F2F4" alt="C">
   <img src="https://img.shields.io/badge/docker-09070A?style=for-the-badge&logo=docker&logoColor=F5F2F4" alt="Docker">
-  <br>
-  <img src="https://img.shields.io/badge/next-6F6870?style=for-the-badge" alt="Next">
-  <img src="https://img.shields.io/badge/javascript-09070A?style=for-the-badge&logo=javascript&logoColor=F5F2F4" alt="JavaScript">
-  <img src="https://img.shields.io/badge/react-09070A?style=for-the-badge&logo=react&logoColor=F5F2F4" alt="React">
-  <img src="https://img.shields.io/badge/vue-09070A?style=for-the-badge&logo=vuedotjs&logoColor=F5F2F4" alt="Vue">
+</p>
+
+<p align="center"><sub><b>NEXT</b></sub><br>
+  <img src="https://img.shields.io/badge/javascript-09070A?style=for-the-badge&logo=javascript&logoColor=6F6870" alt="JavaScript">
+  <img src="https://img.shields.io/badge/react-09070A?style=for-the-badge&logo=react&logoColor=6F6870" alt="React">
+  <img src="https://img.shields.io/badge/vue-09070A?style=for-the-badge&logo=vuedotjs&logoColor=6F6870" alt="Vue">
 </p>
 
 <div align="right"><a href="#readme"><sub>Back to top</sub></a></div>
