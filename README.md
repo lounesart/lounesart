@@ -69,7 +69,7 @@ what is wrong and how to fix it, without running anything.
   <a href="https://academy.hackthebox.com/"><img src="assets/card-academy.png" width="49%" alt="20+ HTB Academy modules"></a>
   <a href="https://www.hackthebox.com/"><img src="assets/card-startingpoint.png" width="49%" alt="14+ Starting Point machines on HackTheBox"></a>
   <a href="https://overthewire.org/wargames/bandit/"><img src="assets/card-bandit.png" width="49%" alt="35 Bandit levels on OverTheWire"></a>
-  <a href="https://overthewire.org/wargames/natas/"><img src="assets/card-natas.png" width="49%" alt="Passed the Natas wargame on OverTheWire"></a>
+  <a href="https://overthewire.org/wargames/natas/"><img src="assets/card-natas.png" width="49%" alt="35 Natas levels on OverTheWire"></a>
 </p>
 
 - [x] **[HTB Academy](https://academy.hackthebox.com/)**
@@ -85,7 +85,7 @@ what is wrong and how to fix it, without running anything.
   `Command Line Proficiency` | `System Vulnerability Identification` | `Security Bypass Techniques`
 
 - [x] **[OverTheWire Natas](https://overthewire.org/wargames/natas/)**
-  Passed the web security wargame, working through
+  Solved 35 progressively challenging web security levels showing
   `Source Analysis` | `Injection` | `Session and Cookie Tampering`
 
 - [x] **Security tools development**
