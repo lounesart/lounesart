@@ -38,9 +38,7 @@ A local AI that knows my notes, plans my study week and hands bigger coding jobs
 inside a sandbox, only after I read the task on my phone and sign it with my fingerprint.
 
 <p align="center">
-  <img src="assets/frame-code.jpg" width="31%" alt="Julz writing Python in colour">
-  <a href="https://github.com/lounesart/julz/blob/main/docs/media/julz-promo.mp4"><img src="https://raw.githubusercontent.com/lounesart/julz/main/docs/media/preview.webp" width="31%" alt="A short loop of the Julz phone app"></a>
-  <img src="assets/frame-looks.jpg" width="31%" alt="Three Julz looks, sharp or smooth">
+  <a href="https://github.com/lounesart/julz/blob/main/docs/media/julz-promo.mp4"><img src="https://raw.githubusercontent.com/lounesart/julz/main/docs/media/preview.webp" width="260" alt="A short loop of the Julz phone app"></a>
   <br><br>
   <a href="https://github.com/lounesart/julz"><img src="https://img.shields.io/badge/the%20repo-julz-E8742A?style=for-the-badge&labelColor=09070A&logo=github&logoColor=F5F2F4" alt="The julz repo"></a>
   <a href="https://github.com/lounesart/julz/blob/main/docs/media/julz-promo.mp4"><img src="https://img.shields.io/badge/watch-one%20minute%20tour-E8742A?style=for-the-badge&labelColor=09070A&logo=youtube&logoColor=F5F2F4" alt="Watch the one minute tour"></a>
