@@ -4,58 +4,58 @@
 
 <br><br>
 
-<a href="#about"><img src="assets/nav-about.png" height="32" alt="About"></a>
-<a href="#featured"><img src="assets/nav-featured.png" height="32" alt="Featured"></a>
-<a href="#achievements"><img src="assets/nav-achievements.png" height="32" alt="Achievements"></a>
-<a href="#stack"><img src="assets/nav-stack.png" height="32" alt="Stack"></a>
+<a href="#about"><img src="assets/nav-about.png" height="32" alt="About"></a>&nbsp;
+<a href="#featured"><img src="assets/nav-featured.png" height="32" alt="Featured"></a>&nbsp;
+<a href="#achievements"><img src="assets/nav-achievements.png" height="32" alt="Achievements"></a>&nbsp;
+<a href="#stack"><img src="assets/nav-stack.png" height="32" alt="Stack"></a>&nbsp;
 <a href="#projects"><img src="assets/nav-projects.png" height="32" alt="Projects"></a>
 
-<br><br>
-
-![Penetration Testing](https://img.shields.io/badge/penetration%20testing-09070A?style=for-the-badge&logo=hackthebox&logoColor=E8742A)
-![OWASP Top 10](https://img.shields.io/badge/owasp%20top%2010-09070A?style=for-the-badge&logo=owasp&logoColor=E8742A)
-![Bash and Python](https://img.shields.io/badge/bash%20%26%20python%20automation-09070A?style=for-the-badge&logo=gnubash&logoColor=E8742A)
-![OSINT](https://img.shields.io/badge/osint-09070A?style=for-the-badge&logo=searxng&logoColor=E8742A)
-![Privacy](https://img.shields.io/badge/privacy%20%26%20anonymity-09070A?style=for-the-badge&logo=torproject&logoColor=E8742A)
-
 </div>
+
+<img src="assets/divider.png" width="100%" alt="">
 
 ## About
 
 Just a curious mind exploring cybersecurity, understanding how things work, and gaining control over technology. Little by little, I learn by breaking and fixing things, tinkering it all together. It's not always about the outcome, it's the motion itself that sets me free.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/penetration%20testing-09070A?style=for-the-badge&logo=hackthebox&logoColor=E8742A" alt="Penetration testing">
+  <img src="https://img.shields.io/badge/owasp%20top%2010-09070A?style=for-the-badge&logo=owasp&logoColor=E8742A" alt="OWASP Top 10">
+  <img src="https://img.shields.io/badge/bash%20%26%20python%20automation-09070A?style=for-the-badge&logo=gnubash&logoColor=E8742A" alt="Bash and Python automation">
+  <img src="https://img.shields.io/badge/osint-09070A?style=for-the-badge&logo=searxng&logoColor=E8742A" alt="OSINT">
+  <img src="https://img.shields.io/badge/privacy%20%26%20anonymity-09070A?style=for-the-badge&logo=torproject&logoColor=E8742A" alt="Privacy and anonymity">
+</p>
+
+<div align="right"><a href="#readme"><sub>Back to top</sub></a></div>
+
 <img src="assets/divider.png" width="100%" alt="">
 
 ## Featured
 
-<a href="https://github.com/lounesart/julz"><img src="assets/julz-card.png" alt="Julz, my private AI assistant. Runs on my laptop, talks to my phone, asks for my fingerprint before it acts." width="100%"></a>
-
-<div align="center">
-
-<a href="https://github.com/lounesart/julz"><img src="https://raw.githubusercontent.com/lounesart/julz/main/docs/media/preview.webp" alt="A short loop of the Julz phone app" width="260"></a>
-
-[![repo](https://img.shields.io/badge/the%20repo-julz-E8742A?style=for-the-badge&labelColor=09070A&logo=github&logoColor=F5F2F4)](https://github.com/lounesart/julz)
-[![video](https://img.shields.io/badge/watch-one%20minute%20tour-E8742A?style=for-the-badge&labelColor=09070A&logo=youtube&logoColor=F5F2F4)](https://github.com/lounesart/julz/blob/main/docs/media/julz-promo.mp4)
-
-</div>
+<a href="https://github.com/lounesart/julz"><img src="assets/julz-card.png" width="100%" alt="Julz, my private AI assistant. Runs on my laptop, talks to my phone, asks for my fingerprint before it acts."></a>
 
 A local AI that knows my notes, plans my study week and hands bigger coding jobs to Claude Code
 inside a sandbox, only after I read the task on my phone and sign it with my fingerprint.
 
+<p align="center">
+  <a href="https://github.com/lounesart/julz"><img src="https://raw.githubusercontent.com/lounesart/julz/main/docs/media/preview.webp" width="260" alt="A short loop of the Julz phone app"></a>
+  <br><br>
+  <a href="https://github.com/lounesart/julz"><img src="https://img.shields.io/badge/the%20repo-julz-E8742A?style=for-the-badge&labelColor=09070A&logo=github&logoColor=F5F2F4" alt="The julz repo"></a>
+  <a href="https://github.com/lounesart/julz/blob/main/docs/media/julz-promo.mp4"><img src="https://img.shields.io/badge/watch-one%20minute%20tour-E8742A?style=for-the-badge&labelColor=09070A&logo=youtube&logoColor=F5F2F4" alt="Watch the one minute tour"></a>
+</p>
+
 <br>
 
-<a href="https://github.com/lounesart/sysreport"><img src="assets/sysreport-card.png" alt="sysreport, a quick health check for my workstation. Read only checks, with a guided fix mode." width="100%"></a>
-
-<div align="center">
-
-[![repo](https://img.shields.io/badge/the%20repo-sysreport-E8742A?style=for-the-badge&labelColor=09070A&logo=github&logoColor=F5F2F4)](https://github.com/lounesart/sysreport)
-[![install](https://img.shields.io/badge/uv%20tool%20install-git%2Bgithub.com%2Flounesart%2Fsysreport-09070A?style=for-the-badge&labelColor=E8742A)](https://github.com/lounesart/sysreport#install)
-
-</div>
+<a href="https://github.com/lounesart/sysreport"><img src="assets/sysreport-card.png" width="100%" alt="sysreport, a quick health check. Read only checks of my workstation, with a guided fix mode."></a>
 
 One command shows updates, fixable CVEs, failed services, the firewall, snapshots, disk space,
 AppArmor, USBGuard and clock sync as a table. If something is off, `sysreport --explain` says
 what is wrong and how to fix it, without running anything.
+
+<p align="center">
+  <a href="https://github.com/lounesart/sysreport"><img src="https://img.shields.io/badge/the%20repo-sysreport-E8742A?style=for-the-badge&labelColor=09070A&logo=github&logoColor=F5F2F4" alt="The sysreport repo"></a>
+  <a href="https://github.com/lounesart/sysreport#install"><img src="https://img.shields.io/badge/install-with%20uv-E8742A?style=for-the-badge&labelColor=09070A&logo=python&logoColor=F5F2F4" alt="Install with uv"></a>
+</p>
 
 <div align="right"><a href="#readme"><sub>Back to top</sub></a></div>
 
@@ -65,14 +65,10 @@ what is wrong and how to fix it, without running anything.
 
 <p align="center">
   <a href="https://academy.hackthebox.com/"><img src="assets/card-academy.png" width="49%" alt="20+ HTB Academy modules"></a>
+  <a href="#student-transcript"><img src="assets/card-rank.png" width="49%" alt="Top 5 percent on HTB Academy, 68 targets, 2 paths completed"></a>
   <a href="https://www.hackthebox.com/"><img src="assets/card-startingpoint.png" width="49%" alt="14+ Starting Point machines on HackTheBox"></a>
   <a href="https://overthewire.org/wargames/bandit/"><img src="assets/card-bandit.png" width="49%" alt="35 Bandit levels on OverTheWire"></a>
-  <a href="https://github.com/lounesart/Scripts/blob/main/Python/bshred.py"><img src="assets/card-bshred.png" width="49%" alt="bshred, my own shred"></a>
 </p>
-
-<details>
-<summary><b>What they covered</b></summary>
-<br>
 
 - [x] **[HTB Academy](https://academy.hackthebox.com/)**
   Completed 20+ cybersecurity training modules covering
@@ -92,20 +88,19 @@ what is wrong and how to fix it, without running anything.
   - forces a disk sync with `os.fsync()` so they can't be recovered
   - keeps the original file structure, unlike full file wiping
 
-</details>
+### Student transcript
 
 <details>
-<summary>
-  <img src="https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="22" alt="HTB Academy">
-  &nbsp;<b>Student transcript</b>
-</summary>
+<summary><img src="assets/nav-transcript.png" height="32" alt="Student transcript, click to open"></summary>
 <br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lounesart/Images/main/fragment-1.png" width="24%" alt="Page 1">
-  <img src="https://raw.githubusercontent.com/lounesart/Images/main/fragment-2.png" width="24%" alt="Page 2">
-  <img src="https://raw.githubusercontent.com/lounesart/Images/main/fragment-3.png" width="24%" alt="Page 3">
-  <img src="https://raw.githubusercontent.com/lounesart/Images/main/fragment-4.png" width="24%" alt="Page 4">
-</p>
+
+<a href="https://raw.githubusercontent.com/lounesart/Images/main/fragment-1.png"><img src="assets/transcript-1.jpg" width="100%" alt="HTB Academy transcript, page 1"></a>
+<a href="https://raw.githubusercontent.com/lounesart/Images/main/fragment-2.png"><img src="assets/transcript-2.jpg" width="100%" alt="HTB Academy transcript, page 2"></a>
+<a href="https://raw.githubusercontent.com/lounesart/Images/main/fragment-3.png"><img src="assets/transcript-3.jpg" width="100%" alt="HTB Academy transcript, page 3"></a>
+<a href="https://raw.githubusercontent.com/lounesart/Images/main/fragment-4.png"><img src="assets/transcript-4.jpg" width="100%" alt="HTB Academy transcript, page 4"></a>
+
+<sub>HTB Academy, June 2025. Tap a page for the full scan.</sub>
+
 </details>
 
 <div align="right"><a href="#readme"><sub>Back to top</sub></a></div>
@@ -114,29 +109,25 @@ what is wrong and how to fix it, without running anything.
 
 ## Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/daily-E8742A?style=for-the-badge" alt="Daily">
+  <img src="https://img.shields.io/badge/python-09070A?style=for-the-badge&logo=python&logoColor=F5F2F4" alt="Python">
+  <img src="https://img.shields.io/badge/bash-09070A?style=for-the-badge&logo=gnubash&logoColor=F5F2F4" alt="Bash">
+  <img src="https://img.shields.io/badge/neovim-09070A?style=for-the-badge&logo=neovim&logoColor=F5F2F4" alt="Neovim">
+  <img src="https://img.shields.io/badge/linux-09070A?style=for-the-badge&logo=linux&logoColor=F5F2F4" alt="Linux">
+  <img src="https://img.shields.io/badge/git-09070A?style=for-the-badge&logo=git&logoColor=F5F2F4" alt="Git">
+  <br>
+  <img src="https://img.shields.io/badge/learning-C97A3D?style=for-the-badge" alt="Learning">
+  <img src="https://img.shields.io/badge/c-09070A?style=for-the-badge&logo=c&logoColor=F5F2F4" alt="C">
+  <img src="https://img.shields.io/badge/docker-09070A?style=for-the-badge&logo=docker&logoColor=F5F2F4" alt="Docker">
+  <br>
+  <img src="https://img.shields.io/badge/next-6F6870?style=for-the-badge" alt="Next">
+  <img src="https://img.shields.io/badge/javascript-09070A?style=for-the-badge&logo=javascript&logoColor=F5F2F4" alt="JavaScript">
+  <img src="https://img.shields.io/badge/react-09070A?style=for-the-badge&logo=react&logoColor=F5F2F4" alt="React">
+  <img src="https://img.shields.io/badge/vue-09070A?style=for-the-badge&logo=vuedotjs&logoColor=F5F2F4" alt="Vue">
+</p>
 
-<sub>daily use</sub>
-<br>
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44" alt="Python" title="Python"></a>&nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="44" alt="Bash" title="Bash"></a>&nbsp;
-<a href="https://neovim.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="44" alt="Neovim" title="Neovim"></a>&nbsp;
-<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="44" alt="Linux" title="Linux"></a>&nbsp;
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44" alt="Git" title="Git"></a>
-
-<br><br>
-
-<sub>in progress</sub>
-<br>
-<a href="https://en.cppreference.com/w/c"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" alt="C" title="C"></a>&nbsp;
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker" title="Docker"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<sub>next</sub>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" title="JavaScript"></a>&nbsp;
-<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" title="React"></a>&nbsp;
-<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" alt="Vue" title="Vue"></a>
-
-</div>
+<div align="right"><a href="#readme"><sub>Back to top</sub></a></div>
 
 <img src="assets/divider.png" width="100%" alt="">
 
